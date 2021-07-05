@@ -30,6 +30,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | August   | Canberra, ACT, Australia           | [Kids Securiday](https://www.securiday.com/) | ~100-250 |
 | August   | Singapore, Singapore               | [HITB GSEC](https://gsec.hitb.org/) | Unknown |
 | September| Sydney, NSW, Australia             | [BSides Sydney](http://bsidessydney.org/) | Unknown |
+| September| Sydney, NSW, Australia             | [CSECcon 2021 Sydney](http://cseccon.utscyber.org/) | ~200 |
 | September| Perth, WA, Australia               | [BSides Perth](https://bsidesperth.com.au/) | ~280 |
 | September| Kochi, Kerala, India               | [c0c0n 12](https://www.c0c0n.org/) | ~2000 |
 | September| Tagaytay, Cavite, Philippines      | [ROOTCON](https://www.rootcon.org/) | ~700-1000 |
@@ -63,6 +64,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 ### New South Wales
 #### Sydney
 - [BSides Sydney](http://bsidessydney.org/)
+- [CSECcon 2021 Sydney](http://cseccon.utscyber.org/)
 - [MRE2020](https://federation.edu.au/icsl/mre2020)
 - [Kids Securiday](https://www.securiday.com/)  
 
